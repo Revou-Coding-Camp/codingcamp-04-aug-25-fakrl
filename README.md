@@ -1,7 +1,7 @@
 # To-Do List Web Application
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-blue?style=for-the-badge)](https://fakrl.github.io/todo-list-app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/fakrl/todo-list-app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-blue?style=for-the-badge)](https://revou-coding-camp.github.io/codingcamp-04-aug-25-fakrl/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Revou-Coding-Camp/codingcamp-04-aug-25-fakrl)
 
 > **Tugas Mini Project dari RevoU Full-Stack Software Engineering Webinar**  
 > 10-Day Short Course: Software Engineering Career Path
@@ -62,7 +62,7 @@ todo-list-app/
 
 ## 🚀 Live Demo
 
-**🌐 Website:** [https://fakrl.github.io/todo-list-app/](https://fakrl.github.io/todo-list-app/)
+**🌐 Website:** [https://fakrl.github.io/todo-list-app/](https://revou-coding-camp.github.io/codingcamp-04-aug-25-fakrl/)
 
 Kunjungi website untuk mencoba aplikasi secara langsung!
 
@@ -76,7 +76,7 @@ Kunjungi website untuk mencoba aplikasi secara langsung!
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/fakrl/todo-list-app
+   git clone https://github.com/Revou-Coding-Camp/codingcamp-04-aug-25-fakrl
    ```
 
 2. **Masuk ke folder project:**
@@ -128,17 +128,17 @@ Melalui project ini, saya mempelajari:
 
 ## 📋 Requirements Checklist
 
-- [x] ✅ Form To-Do dan Date Input
-- [x] ✅ Display To-Do List  
-- [x] ✅ Add, Filter, dan Delete functionality
-- [x] ✅ Input Form Validation
-- [x] ✅ CSS file dalam folder `css/`
-- [x] ✅ Hanya 1 file CSS untuk seluruh project
-- [x] ✅ JavaScript file dalam folder `js/`
-- [x] ✅ Hanya 1 file JavaScript untuk seluruh project
-- [x] ✅ Upload ke GitHub Classroom
-- [x] ✅ Publish di GitHub Pages
-- [x] ✅ Submit URL repository dan published website
+- [x]  Form To-Do dan Date Input
+- [x]  Display To-Do List  
+- [x]  Add, Filter, dan Delete functionality
+- [x]  Input Form Validation
+- [x]  CSS file dalam folder `css/`
+- [x]  Hanya 1 file CSS untuk seluruh project
+- [x]  JavaScript file dalam folder `js/`
+- [x]  Hanya 1 file JavaScript untuk seluruh project
+- [x]  Upload ke GitHub Classroom
+- [x]  Publish di GitHub Pages
+- [x]  Submit URL repository dan published website
 
 ## 🤝 Contributing
 
@@ -150,7 +150,7 @@ This project is created for educational purposes as part of RevoU webinar assign
 
 ## 👤 Author
 
-**[Your Name]**
+**fakrul**
 - GitHub: [@fakrl](https://github.com/fakrl)
 - Email: fahrulmukhlisin13@gmail.com
 - LinkedIn: [Fakhrul mukhlisin](https://www.linkedin.com/in/fakrl)
