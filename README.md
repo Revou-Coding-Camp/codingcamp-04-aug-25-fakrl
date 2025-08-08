@@ -13,12 +13,12 @@ Aplikasi To-Do List sederhana namun fungsional yang dibuat menggunakan HTML, CSS
 ## ✨ Fitur Utama
 
 ### 🎯 Core Features (Sesuai Requirements)
-- ✅ **Form Input** - Input tugas dan tanggal
-- ✅ **Display To-Do List** - Menampilkan semua tugas
-- ✅ **Add Task** - Menambah tugas baru
-- ✅ **Filter Tasks** - Filter berdasarkan kategori
-- ✅ **Delete Task** - Menghapus tugas
-- ✅ **Form Validation** - Validasi input yang komprehensif
+-  **Form Input** - Input tugas dan tanggal
+-  **Display To-Do List** - Menampilkan semua tugas
+-  **Add Task** - Menambah tugas baru
+-  **Filter Tasks** - Filter berdasarkan kategori
+-  **Delete Task** - Menghapus tugas
+-  **Form Validation** - Validasi input yang komprehensif
 
 ### 🚀 Additional Features
 - **Smart Filtering**: All, Today, Upcoming, Overdue
@@ -62,7 +62,7 @@ todo-list-app/
 
 ## 🚀 Live Demo
 
-**🌐 Website:** [https://fakrl.github.io/todo-list-app/](https://revou-coding-camp.github.io/codingcamp-04-aug-25-fakrl/)
+**🌐 Website:** [https://revou-coding-camp.github.io/codingcamp-04-aug-25-fakrl/](https://revou-coding-camp.github.io/codingcamp-04-aug-25-fakrl/)
 
 Kunjungi website untuk mencoba aplikasi secara langsung!
 
@@ -117,14 +117,14 @@ Project ini dibuat sebagai **tugas mini project** dari:
 
 ### Learning Outcomes
 Melalui project ini, saya mempelajari:
-- ✅ HTML semantic structure
-- ✅ CSS advanced styling & animations
-- ✅ JavaScript ES6+ features
-- ✅ DOM manipulation
-- ✅ Local Storage API
-- ✅ Responsive web design
-- ✅ Git & GitHub workflow
-- ✅ Project deployment dengan GitHub Pages
+-  HTML semantic structure
+-  CSS advanced styling & animations
+-  JavaScript ES6+ features
+-  DOM manipulation
+-  Local Storage API
+-  Responsive web design
+-  Git & GitHub workflow
+-  Project deployment dengan GitHub Pages
 
 ## 📋 Requirements Checklist
 
